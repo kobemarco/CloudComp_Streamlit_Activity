@@ -1,2 +1,1 @@
-  Local URL: http://localhost:8501
-  Network URL: http://192.168.136.27:8501
+https://cloudcomp-streamlit-activity.onrender.com
